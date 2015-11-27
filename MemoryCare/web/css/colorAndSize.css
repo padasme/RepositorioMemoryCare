@@ -1,0 +1,30 @@
+body {
+    background-color: gainsboro;
+}
+
+a {
+    color: #ebebeb;
+}
+
+.anchoMaximo {
+    width: 100%;
+}
+
+.anchoMedio {
+    width: 50%;
+}
+
+.ancho30 {
+    width: 30%;
+}
+
+.contenidoCentrado {
+    text-align: center;    
+}
+
+.divConBordeYColor {
+    border-radius: 25px;
+    border: 2px solid gray;
+    padding: 20px; 
+    background: #204d74;
+}

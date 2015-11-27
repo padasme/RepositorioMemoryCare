@@ -13,7 +13,7 @@
         <%@include file="menu_superior.jsp" %>
         <h3>Obtener Código QR</h3></p>
         <!-- Inicio el dropdown list -->
-        <div class="col-xs-20 form-group"><!-- prueba de github-->
+        <div class="col-xs-20 form-group"><!-- gpru eba de github-->
             <label class="col-xs-5 control-label" style="text-align: right">Mis grupos: </label>
                 <div class="col-xs-2 selectContainer">
                     <select class="form-control" name="grupo" onchange="this.form.submit()">
